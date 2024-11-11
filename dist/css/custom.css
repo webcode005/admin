@@ -1,0 +1,317 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+html{
+    background:url(https://premierbags.in/new-admin/bg.jpg);
+}
+body{
+    background:url(https://premierbags.in/new-admin/bg.jpg) ! important;
+    font-family: 'Poppins', sans-serif;
+}
+#formdiv{
+width:500px;
+float:left;
+text-align:center
+}
+
+.upload{
+display:block;
+background-color:red;
+border:1px solid red;
+color:#fff;
+border-radius:5px;
+padding:10px;
+margin-top:10px;
+text-shadow:1px 1px 0 green;
+box-shadow:2px 2px 15px rgba(0,0,0,.75);
+}
+.upload:hover{
+cursor:pointer;
+background:#c20b0b;
+border:1px solid #c20b0b;
+box-shadow:0 0 5px rgba(0,0,0,.75)
+}
+#file{
+color:green;
+padding:5px;
+border:1px dashed #123456;
+background-color:#f9ffe5
+}
+#upload{
+margin-left:45px
+}
+#noerror{
+color:green;
+text-align:left
+}
+#error{
+color:red;
+text-align:left
+}
+#img{
+width: 50px;
+border: none;
+height: 50px;
+margin-left: -30px;
+margin-bottom: 250px;
+}
+.abcd{
+text-align:left;
+}
+.abcd img{
+height:250px;
+width:250px;
+padding:5px;
+border:1px solid #e8debd;
+}
+b{
+color:red
+}
+
+
+#file2{
+color:green;
+padding:5px;
+border:1px dashed #123456;
+background-color:#f9ffe5
+}
+
+#filedivv .abcd{
+text-align:left
+}
+#filedivv  .abcd img{
+height:400px;
+width:350px;
+padding:5px;
+border:1px solid #e8debd;
+margin-bottom: 10px;
+}
+.pull-right {
+    float: right;
+    margin-top: -25px;
+    margin-right: 25px;
+}
+
+
+.tab-container.tab-left .nav.nav-tabs {
+	float: left;
+	display: block;
+}
+.tab-container.tab-left .tab-content {
+    overflow: auto;
+    border-radius: 0 2px 2px 2px;
+    border: 1px solid #e0e0e0;
+    padding: 16px;
+    background-color: #ffffff;
+}
+.tab-container.tab-left .nav.nav-tabs li a {
+    display: block;
+    background-color: #ffffff;
+    margin-left: -1px;
+    border-top: 1px solid #e0e0e0;
+    border-left: 1px solid #e0e0e0;
+    color: #616161;
+    border-radius: 0;
+    padding: 9px 16px;
+    font-weight: 700;
+}
+.tab-container.tab-left .nav.nav-tabs li a.active {
+    background-color: #ffffff;
+    border-right: none;
+    margin-right: -1px;
+}
+ul.order-detail li {
+    width: 49%;
+    display: inline-block;
+}
+.dropdown-menu
+{
+    background-color: #4c4c4c!important;
+}
+.dropdown-item:focus, .dropdown-item:hover
+{
+    background-color: #007bff!important;
+}
+.layout-fixed .main-sidebar{
+    background:url(https://premierbags.in/new-admin/v-bg.jpg) ! important;
+}
+.sidebar-light-primary .sidebar a{
+    color:#fff ! important;
+}
+.content-wrapper{
+    background:url(https://premierbags.in/new-admin/bg.jpg) ! important;
+}
+.content-header h1{
+    color:#fff ! important;
+}
+.breadcrumb-item.active{
+    color:#f1f1f1 ! important;
+}
+.nav-item:hover a{
+    color:#6c757d ! important;
+}
+.main-footer{
+    padding:0px ! important;
+    /*padding-top:25px ! important;*/
+    /*padding-right:20px ! important;*/
+    background:url(https://premierbags.in/new-admin/bg.jpg) ! important;
+}
+
+.float-right p a{
+    color: #fff ! important;
+    font-size:16px;
+}
+.alert-info, .bg-info, .label-info{
+    background:#cc040e!important;
+}
+.alert-success, .bg-success, .label-success{
+    background-color: #5a05ca!important;
+}
+.breadcrumb-item a{
+    color:#fff ! important;
+}
+.float-right p{
+    padding-top:0px;
+    margin-bottom:0px ! important;
+}
+.card-header{
+    border-bottom:none ! important;
+}
+.card-header h3{
+    font-weight:bold;
+}
+.card-title h3:after{
+    content"";
+    width:200px;
+    height:2px;
+    background:#5a05ca;
+    display:block;
+}
+.box-title h3{
+    text-align:center;
+    font-size:16px;
+    font-weight:bold;
+    text-decoration:underline;
+}
+.logo-sec{
+    padding:35px;
+    text-align:center;
+}
+.login-btn{
+    width:100%;
+    border-radius:0;
+    background:#2d2d2d ! important;
+    border:none ! important;
+}
+.login-btn:hover{
+    background:#000 ! important;
+}
+.login-box-main{
+    border-radius:0px;
+    border:7px solid #2d2d2d;
+}
+.login-bg{
+    background:url(login-bg.jpg);
+}
+.field-title{
+    font-weight:bold;
+    color:#3c4858;
+    font-size:15px;
+}
+.form-control{
+    border-radius:0;
+    margin-top:10px ! important;
+}
+.forgot-area{
+    background:#2d2d2d ! important;
+    padding:10px;
+}
+.forgot{
+    float:right;
+    font-size:15px;
+    color:#ff2828;
+}
+.forgot:hover{
+    color:#fff;
+}
+
+.forget-footer{
+        position: fixed;
+    right: 0;
+    top: 600px;
+}
+.nav-pills .last-li{
+    margin-top:215px;
+}
+.btn-primary{
+    background: linear-gradient(100deg,#6c757d,#000000) repeat-x!important;
+    border:none ! important;
+}
+.btn-primary:focus{
+    box-shadow:none ! important;
+}
+.btn-secondary:focus{
+    box-shadow:none ! important;
+}
+.btn-primary:hover{
+    background: linear-gradient(100deg,#000000,#6c757d) repeat-x!important;
+    
+}
+.page-item.active .page-link{
+    background:#000 ! important;
+    border:none ! important;
+}
+.card-primary:not(.card-outline) .card-header{
+    background:#1F1A45! important;
+}
+.btn-secondary{
+    background: linear-gradient(100deg,#000000,#6c757d) repeat-x!important;
+}
+.btn-secondary:hover{
+    background: linear-gradient(100deg,#6c757d,#000000) repeat-x!important;
+}
+.btn-danger{
+    background: linear-gradient(100deg,#e22c3d,#ca0316) repeat-x!important;
+}
+.btn-danger:hover{
+    background: linear-gradient(100deg,#ca0316,#e22c3d) repeat-x!important;
+}
+div.dataTables_wrapper div.dataTables_filter input{
+    width:268px ! important;
+}
+.bg-gradient-secondary{
+    background: linear-gradient(100deg,#000000,#6c757d) repeat-x!important;
+    border:none ! important;
+}
+.bg-gradient-secondary.btn:hover{
+    background: linear-gradient(100deg,#6c757d,#000000) repeat-x!important;
+}
+.btn-success{
+    background: linear-gradient(100deg,#8949de,#5a05ca ) repeat-x!important;
+    border:none ! important;
+}
+.btn-success:hover{
+    background: linear-gradient(100deg,#5a05ca,#8949de ) repeat-x!important;
+}
+.btn-success:hover{
+    background:#3f028e ! imporatnt;
+}
+.upper-sec{
+    background:#ce091b ! important;
+}
+.upper-sec h3{
+    color:#fff ! important;
+}
+.cre-pass{
+    margin-top:45px ! important;
+}
+.form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #d8d8d8;
+    outline: 0;
+    box-shadow: inset 0 0 0 transparent, 0 0 0 0.2rem rgb(255 234 234);
+}
+.float-right{
+    position:fixed;
+    right:0;
+    bottom:0;
+}

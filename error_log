@@ -1,0 +1,15 @@
+[09-Mar-2022 10:11:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'webeiuut_Ayan_DB'@'localhost' (using password: YES) in /home2/webeiuutig/public_html/ayan/ayan-admin/config.php on line 5
+[09-Mar-2022 10:11:23 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/webeiuutig/public_html/ayan/ayan-admin/index.php on line 14
+[09-Mar-2022 10:11:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'webeiuut_Ayan_DB'@'localhost' (using password: YES) in /home2/webeiuutig/public_html/ayan/ayan-admin/config.php on line 5
+[09-Mar-2022 10:11:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/webeiuutig/public_html/ayan/ayan-admin/index.php on line 14
+[09-Mar-2022 10:12:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'webeiuut_Ayan_DB'@'localhost' (using password: YES) in /home2/webeiuutig/public_html/ayan/ayan-admin/config.php on line 5
+[09-Mar-2022 10:12:15 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/webeiuutig/public_html/ayan/ayan-admin/index.php on line 14
+[09-Mar-2022 10:12:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'webeiuut_Ayan_DB'@'localhost' (using password: YES) in /home2/webeiuutig/public_html/ayan/ayan-admin/config.php on line 5
+[09-Mar-2022 10:12:25 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/webeiuutig/public_html/ayan/ayan-admin/index.php on line 14
+[09-Mar-2022 10:12:32 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'webeiuut_Ayan_DB'@'localhost' (using password: YES) in /home2/webeiuutig/public_html/ayan/ayan-admin/config.php on line 5
+[09-Mar-2022 10:12:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'webeiuut_Ayan_DB'@'localhost' (using password: YES) in /home2/webeiuutig/public_html/ayan/ayan-admin/config.php on line 5
+[09-Mar-2022 10:12:49 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/webeiuutig/public_html/ayan/ayan-admin/index.php on line 14
+[09-Mar-2022 10:15:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'webeiuut_Ayan_DB'@'localhost' (using password: YES) in /home2/webeiuutig/public_html/ayan/ayan-admin/config.php on line 5
+[09-Mar-2022 10:15:03 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/webeiuutig/public_html/ayan/ayan-admin/index.php on line 14
+[09-Mar-2022 10:15:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'webeiuut_Ayan_DB'@'localhost' (using password: YES) in /home2/webeiuutig/public_html/ayan/ayan-admin/config.php on line 5
+[09-Mar-2022 10:15:09 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/webeiuutig/public_html/ayan/ayan-admin/index.php on line 14

@@ -1,0 +1,3 @@
+RewriteEngine On 
+
+Redirect /http://lahirikunduink.com/new-admin/   http://lahirikunduink.com/new-admin/index.php
